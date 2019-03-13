@@ -1,2 +1,2 @@
 # node-asa
-API ASA for shoposn Sofia
+API ASA for shoposn
